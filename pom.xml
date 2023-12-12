@@ -20,7 +20,7 @@
 		<encoding>UTF-8</encoding>
 		<java.version>17</java.version>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.organization>Wa2n84</sonar.organization>
+		<sonar.organization>wa2n84</sonar.organization>
 		<sonar.projectKey>Wa2n84_SitodoAW-BSIM</sonar.projectKey>
 		<sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
 		<!-- Serenity & Cucumber-related configuration properties -->
