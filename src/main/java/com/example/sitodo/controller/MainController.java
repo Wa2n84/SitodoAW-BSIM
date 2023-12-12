@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class MainController {
 
-    @GetMapping(method = RequestMethod.GET,value = "/")
+    @GetMapping("/")
     public String showMainPage() {
         return "redirect:/list";
     }
